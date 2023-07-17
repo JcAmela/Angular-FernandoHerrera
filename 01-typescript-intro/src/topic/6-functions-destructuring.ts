@@ -1,5 +1,5 @@
 
-interface Product{
+export interface Product{
     description: string,
     price: number,
 }
@@ -20,28 +20,27 @@ const tablet: Product={
 }
 
 
-const shoppingCart= [phone, tablet];
-const tax = 0.21;
-const result= taxCalculator({
+const shoppingCart = [phone, tablet];
+const [total, tax] = taxCalculator({
     product:shoppingCart,
-    tax:tax,
+    tax: 0.21,
 }) 
 
 //--------------------------------------------------------------
 
-function taxCalculator(options:TaxCalculatorOptions):number[]{
+export function taxCalculator(options:TaxCalculatorOptions): [number, number]{
     let total = 0;
-    options.product.forEach(product => {
-        total += product.price;
+    const { product, tax} = options
+
+    product.forEach(({price}) => {
+        total += price;
     })
-    return [total, total*options.tax]
+    return [total, total*tax]
 }
 
 //--------------------------------------------------------------
 
-console.log('total', result[0])
-console.log('tax', result[1])
+console.log('total', total)
+console.log('tax', tax)
 
 //--------------------------------------------------------------
-
-export { }; // Esto es para transformar el archivo en un Modulo.
