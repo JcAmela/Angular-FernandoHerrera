@@ -1,4 +1,4 @@
-
+// En este código practicamos funciones en TypeScript, destacando la tipificación de parámetros y resultados, y el uso de parámetros opcionales y valores predeterminados. Además, aplicamos estas habilidades en un ejemplo con objetos y métodos, reforzando el uso de interfaces.
 
 function addNumbers(a:number, b:number):number{
   return a + b  

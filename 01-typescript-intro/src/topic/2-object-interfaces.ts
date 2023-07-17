@@ -1,3 +1,5 @@
+// Este código es una práctica sobre objetos e interfaces en TypeScript. Se definen las propiedades requeridas y opcionales de un objeto 'Character' mediante una interfaz. Luego, se crea un objeto siguiendo dicha interfaz. Finalmente, se asigna un valor a la propiedad opcional 'homeTown'.
+
 const skills: string[] = [
     'Bash', 'Counter', 'Healing'];
 

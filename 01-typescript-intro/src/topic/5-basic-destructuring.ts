@@ -1,3 +1,5 @@
+// En este código, se practican conceptos esenciales de TypeScript como 'interfaces' y 'tipos'. Creamos una interfaz para modelar la estructura de un objeto 'Audioplay'. Después, se muestra cómo desestructurar tanto objetos como arrays, reasignando las propiedades a nuevas variables. Este código refuerza las habilidades de trabajar con interfaces, tipos y desestructuración en TypeScript.
+
 interface Audioplay{
 audioVolume:number;
 songDuration:number;
