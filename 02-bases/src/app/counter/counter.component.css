@@ -1,0 +1,11 @@
+h1, h3{
+    display: grid;
+    place-items: center;
+}
+
+.button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2rem;
+}
