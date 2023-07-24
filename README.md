@@ -6,7 +6,7 @@ Este repositorio contiene el proyecto en desarrollo que estoy realizando como pa
 Este proyecto está actualmente **en curso**, y se irá actualizando a medida que avance en el curso. Agradezco tu paciencia y comprensión.
 
 ## 👀 Vista previa
-El proyecto está alojado en GitHub Pages. Puedes ver una versión en vivo del proyecto aquí: [Ver en vivo/](https://jcamela.github.io/Angular-FernandoHerrera.github.io/)
+El proyecto está alojado en GitHub Pages. Puedes ver una versión en vivo del proyecto aquí: [Ver publicación](https://jcamela.github.io/Angular-FernandoHerrera.github.io/)
 
 ## 🎓 Lo que estoy aprendiendo
 * Desarrollo de aplicaciones con Angular y TypeScript
