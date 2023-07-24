@@ -30,9 +30,6 @@ Para ejecutar este proyecto en tu entorno local, sigue los siguientes pasos:
 ## 🤝 Contribuciones
 Como este es un proyecto de curso en curso, actualmente no estoy buscando contribuciones. Sin embargo, si tienes alguna sugerencia o comentario, siéntete libre de abrir un issue.
 
-## 📖 Licencia
-Este proyecto está bajo la [Licencia MIT](./LICENSE).
-
 ## 🎤 Instructor
 **Fernando Herrera**
 
