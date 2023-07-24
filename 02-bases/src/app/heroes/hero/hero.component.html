@@ -2,7 +2,7 @@
 <dl>
     <td>Nombre:</td>
     <dd>{{name}}</dd>
-    
+
     <td>Edad:</td>
     <dd>{{age}}</dd>
 
@@ -14,18 +14,15 @@
 </dl>
 
 
-<button class="btn btn-primary mx-2"
-*ngIf="name !== 'Spiderman'" 
-(click)="changeHero()">
+<button class="btn btn-primary mx-2" *ngIf="name !== 'Spiderman'" (click)="changeHero()">
     Cambiar nombre
 </button>
-<button class="btn btn-primary mx-2" 
-*ngIf="age !== 33" 
-(click)="changeAge()">
+<button class="btn btn-primary mx-2" *ngIf="age !== 33" (click)="changeAge()">
     Cambiar edad
 </button>
 
-<button class="btn btn-primary mx-2"  
-(click)="reset()">
+<button class="btn btn-primary mx-2" (click)="reset()">
     Reset
 </button>
+
+<hr>
