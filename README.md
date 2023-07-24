@@ -33,7 +33,7 @@ Como este es un proyecto de curso en curso, actualmente no estoy buscando contri
 ## 🎤 Instructor
 **Fernando Herrera**
 
-💼[Web]([https://www.linkedin.com/in/fernandoherrera/](https://fernando-herrera.com/)
+💼[Web](https://fernando-herrera.com/)
 
 ## 🙏 Agradecimientos
 Agradezco a [Fernando Herrera](https://www.udemy.com/user/fernandoherrera/) por el excelente curso en Udemy. ¡Estoy aprendiendo mucho!
